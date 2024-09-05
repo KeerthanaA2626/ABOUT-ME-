@@ -1,4 +1,3 @@
-# ABOUT-ME-
 # 💫 About Me:
 🔭 Currently a Research Intern at IITJ<br>B.Tech CSE Undergrad<br>Specialization In Cybersecurity
 
